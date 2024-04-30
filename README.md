@@ -1,5 +1,6 @@
 <h1 align="center">Hola soy Gabriel Nievas </h1>
 
+<p>Estudio desarrollo de sofware hace 3 años de forma autodidacta, soy un apasionado por la tecnología👨🏻‍💻👨🏻‍💻</p>
 
 <h2>Contacto</h2>
 

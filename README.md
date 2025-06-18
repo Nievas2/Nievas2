@@ -13,9 +13,7 @@
   [![Portfolio](https://img.shields.io/badge/🌐_Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://gabydev.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-nievas/)
   [![Gmail](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelgabrielnievas@gmail.com)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Nievas2&color=3B82F6&style=for-the-badge&label=VISITAS+AL+PERFIL)
-  
+   
 </div>
 
 ---

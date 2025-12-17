@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desarrollador+Frontend+%7C+React+%26+Next.js;Especialista+en+React+Native;Creando+experiencias+digitales+increíbles;%2B3+años+de+experiencia" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desarrollador+Frontend+%7C+React+%26+Next.js;Creando+experiencias+digitales+increíbles;%2B3+años+de+experiencia" alt="Typing SVG">
   
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="margin: 0 10px;">
   
